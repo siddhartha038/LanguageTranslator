@@ -1,1 +1,1 @@
-# LanguageTranslator Translates
+# LanguageTranslator Translates into Different languages
